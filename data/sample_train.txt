@@ -1,2 +1,0 @@
-Example sentence one	0
-Another example sentence	1
